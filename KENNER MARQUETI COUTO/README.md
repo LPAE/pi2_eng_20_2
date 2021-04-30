@@ -126,7 +126,7 @@ Em seguida o usuário deve clicar em um dos botões: “Ascender”, “Apagar�
 Deste ponto em diante o uso é bem autoexplicativo, os botões “ascender” e “apagar”, ascendem ou apagam a lâmpada, ou ligam e desligam o dispositivo, conectado ao relê selecionado. O botão “Escolha a Lâmpada” permite selecionar qual relê controlar, porém como apenas um relê foi implementado ao clicar no mesmo o usuário pode escolher apenas “1”, como mostra a , sendo este o relê disponível.
 
 Figura 7 - Tela de Seleção de Lâmpada
-<p align="center"><img src="./imagens/escolhe lâmpada.jpg" align="center" width="400"><br></p><br>
+<p align="center"><img src="./imagens/escolhe lampada.jpg" align="center" width="400"><br></p><br>
 Além disso uma saída é ativada ao se detectar umidade superior a 90%, simulando uma ventoinha de controle de clima por exemplo, sendo o gatilho para a ativação facilmente configurável na programação, podendo ser por exemplo temperatura ou detecção de gases.
 
 Como visto na Figura 8, ao detectar gases tóxicos ou inflamáveis uma mensagem é escrita na tela com intervalo de 500ms, para que o usuário possa tomar alguma ação.
