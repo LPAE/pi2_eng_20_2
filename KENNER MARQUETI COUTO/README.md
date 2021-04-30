@@ -119,11 +119,11 @@ Figura 5 - Mensagem de erro.
 
 O usuário deve então clicar no botão: ”Selecionar Bluetooth”, uma lista de dispositivos será mostrada e o usuário deve então, selecionar o dispositivo PROJETO PI 2 ou HC-05, caso a lista se encontre vazia o usuário deve verificar se o bluetooth de seu telefone está ativo e repetir o processo, caso não encontre o dispositivo deve verificar se o projeto está ligado e repetir o processo.
 
-Em seguida o usuário deve clicar em um dos botões: “Ascender”, “Apagar”, ou “Atualizar Dados”. Assim que informações de temperatura e umidade aparecerem na tela, como na Figura 6,o dispositivo está operando e se comunicando com sucesso com o smartphone.
+Em seguida o usuário deve clicar em um dos botões: “Ascender”, “Apagar”, ou “Atualizar Dados”. Assim que informações de temperatura e umidade aparecerem na tela, como na Figura 6, o dispositivo está operando e se comunicando com sucesso com o smartphone.
 
 **Figura 6 - Conectado e operando.**
 <p align="center"><img src="./imagens/inicializado.jpg" align="center" width="400"><br></p><br>
-Deste ponto em diante o uso é bem autoexplicativo, os botões “ascender” e “apagar”, ascendem ou apagam a lâmpada, ou ligam e desligam o dispositivo, conectado ao relê selecionado. O botão “Escolha a Lâmpada” permite selecionar qual relê controlar, porém como apenas um relê foi implementado ao clicar no mesmo o usuário pode escolher apenas “1”, como mostra a , sendo este o relê disponível.
+Deste ponto em diante o uso é bem autoexplicativo, os botões “ascender” e “apagar”, ascendem ou apagam a lâmpada, ou ligam e desligam o dispositivo, conectado ao relê selecionado. O botão “Escolha a Lâmpada” permite selecionar qual relê controlar, porém como apenas um relê foi implementado ao clicar no mesmo o usuário pode escolher apenas “1”, como mostra a Figura 7, sendo este o relê disponível.
 
 Figura 7 - Tela de Seleção de Lâmpada
 <p align="center"><img src="./imagens/escolhe lampada.jpg" align="center" width="400"><br></p><br>
