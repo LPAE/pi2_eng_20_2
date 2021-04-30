@@ -48,8 +48,10 @@ Com estes materiais e a proposta de projeto em mente elaborou-se um mapa mental 
 Como visto no mapa mental, o material fornecido e a temática englobam aspectos de conforto como o acionamento remoto e automático de dispositivos (lâmpadas, ventiladores, cortinas) e aspectos de segurança, como detecção de vazamentos de gás, invasão e envio de alertas caso algum parâmetro pré-definido seja atingido. Portanto definiram-se objetivos a alcançar dentro destes aspectos.
 
 <h3>Objetivos</h3>
-	**Acionamento remoto de dispositivos.** Além de prover conforto ao usuário médio, torna o ambiente mais acessível à usuários com dificuldades motoras ou de deslocamento.
-	**Monitoramento de variáveis do ambiente .** Permite ao usuário tomar decisões baseadas nos parâmetros monitorados, bem como, com simples alterações no código, o controle de dispositivos baseados nestes parâmetros. Por exemplo, ligar um aparelho de ar-condicionado quando a temperatura especificada for atingida. Além disso, variáveis como presença de gases tóxicos ou inflamáveis podem ser monitoradas usando o sensor MQ-2, e o usuário pode ser notificado assim que seja detectada a presença destes pelo sensor. O usuário dispositivo pode ainda emitir um alerta sonoro através do módulo buzzer.
+	**Acionamento remoto de dispositivos.** 
+	Além de prover conforto ao usuário médio, torna o ambiente mais acessível à usuários com dificuldades motoras ou de deslocamento.
+	**Monitoramento de variáveis do ambiente .** 
+	Permite ao usuário tomar decisões baseadas nos parâmetros monitorados, bem como, com simples alterações no código, o controle de dispositivos baseados nestes parâmetros. Por exemplo, ligar um aparelho de ar-condicionado quando a temperatura especificada for atingida. Além disso, variáveis como presença de gases tóxicos ou inflamáveis podem ser monitoradas usando o sensor MQ-2, e o usuário pode ser notificado assim que seja detectada a presença destes pelo sensor. O dispositivo pode ainda emitir um alerta sonoro através do módulo buzzer.
 	**Controle através de smartphone.** - Para tal deve ser desenvolvido um aplicativo Android que permita a comunicação com o HC-05 de forma fácil para o usuário.
  
 	   
