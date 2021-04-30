@@ -40,7 +40,7 @@ O mercado de domótica vem em crescente expansão, tendo se popularizado entro h
 Com estes materiais e a proposta de projeto em mente elaborou-se um mapa mental do projeto. 
  
  **Mapa Mental**<br>
-<p align="center"><img src="../Imagens/mapa mental.jpg" align="center" width="200"><br></p>
+<p align="center"><img src="./imagens/mapa mental.jpg" align="center" width="200"><br></p>
 ********************************************************
 
 
@@ -65,27 +65,27 @@ Com os objetivos traçados, escolheu-se o hardware adequado para a implementaç�
 
   **Módulo Relé 5V 1 Canal**<br>
   Usado para ligar/desligar um determinado sensor/aparelho.
-  <p align="center"><img src="../Imagens/rele.jpg" align="center" width="200"><br></p>
+  <p align="center"><img src="./imagens/rele.jpg" align="center" width="200"><br></p>
 
   **Módulo Bluetooth HC-05**<br>
   Utilizado para conexão ao Smartphone.
-  <p align="center"><img src="../Imagens/esp8266.jpg" align="center" width="300"><br></p>
+  <p align="center"><img src="./imagens/hc05.jpg" align="center" width="300"><br></p>
 
   **Sensor de Umidade e Temperatura DHT11**<br>
   Utilizado para monitorar temperatura e humidade do ar.
-  <p align="center"><img src="../Imagens/dht11.jpg" align="center" width="200"><br></p>
+  <p align="center"><img src="./imagens/dht11.jpg" align="center" width="200"><br></p>
 
 **Sensor de Gás**<br>
   Utilizado para monitorar temperatura e humidade do ar.
-  <p align="center"><img src="../Imagens/mq2.jpg" align="center" width="200"><br></p>
+  <p align="center"><img src="./imagens/mq2.jpg" align="center" width="200"><br></p>
   **Módulo Buzzer**<br>
   Apita caso gases tóxicos sejam detectados.
-  <p align="center"><img src="../Imagens/buzzer.jpg" align="center" width="200"><br></p>
+  <p align="center"><img src="./imagens/buzzer.jpg" align="center" width="200"><br></p>
 
 
   **Smartphone**<br>
   Utilizado para controle e monitoramento dos parâmetros.
-  <p align="center"><img src="../Imagens/phone.png" align="center" width="350"><br></p><br>
+  <p align="center"><img src="./imagens/phone.png" align="center" width="350"><br></p><br>
 
 
 
@@ -95,7 +95,7 @@ Com o Hardware escolhido e testado, deu-se início a etapa de Design fazendo um 
 
 
 <h3>Conexões Elétricas</h3>
-<p align="center"><img src="../Imagens/PROJETO PI INC_bb.png" align="center" width="900"><br></p><br>
+<p align="center"><img src="./imagens/PROJETO PI INC_bb.png" align="center" width="900"><br></p><br>
 
 <h3>Código e APP</h3>
 
@@ -112,6 +112,7 @@ Com tudo desenvolvido foram feitos os testes finais, instalando o aplicativo em 
 A utilização do aplicativo é muito simples, sendo possível até mesmo por deficientes visuais através de um leitor de tela. Ao abrir o aplicativo o usuário se depara com uma mensagem de erro de conexão como visto na Figura 5.
 
 Figura 5 - Mensagem de erro.
+![alt text](./imagens/PROJETO PI INC_bb.png)
 
 O usuário deve então clicar no botão: ”Selecionar Bluetooth”, uma lista de dispositivos será mostrada e o usuário deve então, selecionar o dispositivo PROJETO PI 2 ou HC-05, caso a lista se encontre vazia o usuário deve verificar se o bluetooth de seu telefone está ativo e repetir o processo, caso não encontre o dispositivo deve verificar se o projeto está ligado e repetir o processo.
 
