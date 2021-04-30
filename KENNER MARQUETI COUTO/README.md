@@ -80,7 +80,8 @@ Com os objetivos traçados, escolheu-se o hardware adequado para a implementaç�
 **Sensor de Gás**<br>
   Utilizado para monitorar temperatura e humidade do ar.
   <p align="center"><img src="./imagens/mq2.jpg" align="center" width="200"><br></p>
-  **Módulo Buzzer**<br>
+ 
+ **Módulo Buzzer**<br>
   Apita caso gases tóxicos sejam detectados.
   <p align="center"><img src="./imagens/buzzer.jpg" align="center" width="200"><br></p>
 
@@ -101,7 +102,7 @@ Com o Hardware escolhido e testado, deu-se início a etapa de Design fazendo um 
 
 <h3>Código e APP</h3>
 
-E a partir disso desenvolveu-se o código do arquivo pronto.ino encontrado neste repositório.
+E a partir disso desenvolveu-se o código que pode ser encontrado no arquivo (pronto.ino) neste repositório.
 E o aplicativo PI2.apk encontrado também neste repositório. 
 
 O aplicativo foi desenvolvido utilizando a ferramenta [AppInventor](ai2.appinventor.mit.edu/) do MIT.
