@@ -40,7 +40,7 @@ O mercado de domótica vem em crescente expansão, tendo se popularizado entro h
 Com estes materiais e a proposta de projeto em mente elaborou-se um mapa mental do projeto. 
  
  **Mapa Mental**<br>
-<p align="center"><img src="./imagens/mapa mental.jpg" align="center" width="200"><br></p>
+<p align="center"><img src="./imagens/mapa mental aaa.jpg" align="center" width="600"><br></p>
 ********************************************************
 
 
@@ -95,7 +95,7 @@ Com o Hardware escolhido e testado, deu-se início a etapa de Design fazendo um 
 
 
 <h3>Conexões Elétricas</h3>
-<p align="center"><img src="./imagens/PROJETO PI INC_bb.png" align="center" width="900"><br></p><br>
+<p align="center"><img src="./imagens/PROJETO PI INC_bb.jpg" align="center" width="900"><br></p><br>
 
 <h3>Código e APP</h3>
 
@@ -112,18 +112,18 @@ Com tudo desenvolvido foram feitos os testes finais, instalando o aplicativo em 
 A utilização do aplicativo é muito simples, sendo possível até mesmo por deficientes visuais através de um leitor de tela. Ao abrir o aplicativo o usuário se depara com uma mensagem de erro de conexão como visto na Figura 5.
 
 Figura 5 - Mensagem de erro.
-![alt text](./imagens/PROJETO PI INC_bb.png)
+<p align="center"><img src="./imagens/erro conexão.jpg" align="center" width="400"><br></p><br>
 
 O usuário deve então clicar no botão: ”Selecionar Bluetooth”, uma lista de dispositivos será mostrada e o usuário deve então, selecionar o dispositivo PROJETO PI 2 ou HC-05, caso a lista se encontre vazia o usuário deve verificar se o bluetooth de seu telefone está ativo e repetir o processo, caso não encontre o dispositivo deve verificar se o projeto está ligado e repetir o processo.
 
 Em seguida o usuário deve clicar em um dos botões: “Ascender”, “Apagar”, ou “Atualizar Dados”. Assim que informações de temperatura e umidade aparecerem na tela, como na Figura 6,o dispositivo está operando e se comunicando com sucesso com o smartphone.
 
-Figura 6 - Conectado e operando.
-
+**Figura 6 - Conectado e operando.**
+<p align="center"><img src="./imagens/inicializado.jpg" align="center" width="400"><br></p><br>
 Deste ponto em diante o uso é bem autoexplicativo, os botões “ascender” e “apagar”, ascendem ou apagam a lâmpada, ou ligam e desligam o dispositivo, conectado ao relê selecionado. O botão “Escolha a Lâmpada” permite selecionar qual relê controlar, porém como apenas um relê foi implementado ao clicar no mesmo o usuário pode escolher apenas “1”, como mostra a , sendo este o relê disponível.
 
 Figura 7 - Tela de Seleção de Lâmpada
-
+<p align="center"><img src="./imagens/escolhe lampada.jpg" align="center" width="400"><br></p><br>
 Além disso uma saída é ativada ao se detectar umidade superior a 90%, simulando uma ventoinha de controle de clima por exemplo, sendo o gatilho para a ativação facilmente configurável na programação, podendo ser por exemplo temperatura ou detecção de gases.
 
 Como visto na Figura 2, ao detectar gases tóxicos ou inflamáveis uma mensagem é escrita na tela com intervalo de 500ms, para que o usuário possa tomar alguma ação.
