@@ -1,7 +1,7 @@
 
 
 <table align="center"><tr><td align="center" width="9999"><br>
-<img src="../Imagens/logo.png" align="center" width="150" alt="Logo IFSC">
+<img src="../imagens/ifsc.png" align="center" width="150" alt="Logo IFSC">
 
 # Automação Residencial e Acessibilidade com Arduino
 
